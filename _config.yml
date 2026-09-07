@@ -1,0 +1,5 @@
+# GitHub Pages 설정. 이 폴더를 공개 저장소에 그대로 올리면 사이트가 된다.
+# 테마가 마크다운을 읽히게 렌더해준다 — HTML 을 따로 쓰지 않는 이유다.
+title: momCoach
+description: 이용약관 · 개인정보 처리방침
+theme: jekyll-theme-cayman
