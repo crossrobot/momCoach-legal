@@ -4,5 +4,6 @@
 
 - [서비스 이용약관](terms)
 - [개인정보 처리방침](privacy)
+- [계정 삭제 요청](delete-account)
 
 문의: nakjoon.im@gmail.com
